@@ -1,3 +1,13 @@
+## NYU CS-9223 Deep Learning Project.
+Collaborator: Runchen Hu, Shen Wang,   
+
+
+
+This repo is forked from https://github.com/tkarras/progressive_growing_of_gans  
+
+We have done some minor changes in order to redo the experiment and achieve descent performace as described by the author.  
+
+
 ## Resources
 
 * [Paper (NVIDIA research)](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)

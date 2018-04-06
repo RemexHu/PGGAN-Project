@@ -1,5 +1,5 @@
 ## NYU CS-9223 Deep Learning Project.
-Collaborator: Runchen Hu, Shen Wang,   
+Collaborator: Runchen Hu, Shen Wang, Lifan Wang  
 
 
 
@@ -25,3 +25,13 @@ And we did our experiments either on Runchen's desktop with GTX 1080 and on NYU 
   * [Example training logs and progress snapshots (`networks/tensorflow-version/example_training_runs`)](https://drive.google.com/open?id=1A9SKoQ7Xu2fqK22GHdMw8LZTh6qLvR7H)
 
 All the material, including source code, is made freely available for non-commercial use under the Creative Commons [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode) license. Feel free to use any of the material in your own work, as long as you give us appropriate credit by mentioning the title and author list of our paper.
+
+
+## Datasets
+We built our PG-GAN model from CelebA and CIFAR-10 dataset.   
+CIFAR-10: https://www.cs.toronto.edu/~kriz/cifar.html   
+CelebA: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html  
+
+
+## Results
+The network would generate fake images during the training process, they are stored in /results directory.  

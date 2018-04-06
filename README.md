@@ -5,7 +5,8 @@ Collaborator: Runchen Hu, Shen Wang,
 
 This repo is forked from https://github.com/tkarras/progressive_growing_of_gans  
 
-We have done some minor changes in order to redo the experiment and achieve descent performace as described by the author.  
+We have done some minor changes in order to redo the experiment and achieve descent performace as described by the author.   
+And we did our experiments either on Runchen's desktop with GTX 1080 and on NYU HPC Prince Tesla-P100. The CIFAR experiment took about 14 hours of training, and the CelebA experiment took another 14 hours.  
 
 
 ## Resources
